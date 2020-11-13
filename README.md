@@ -13,3 +13,4 @@ Container Technology Experience: Docker, Git, GitHub
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/jonatan-rivera/
+Medium: jonatanalejandrorivera.medium.com
