@@ -3,6 +3,7 @@
 
 ### I am  presently looking for jobs related to Data Analyst,Software Engineering/Data Engineering positions. I am currently working towards a Data Science certificate with Lambda School and expect to graduate by the end of November. I am familiar with working with PostgresSQL,AWS,Docker,Heroku, and Jupyter Notebooks, locally and on Google Colabs.  👋
 
+## Skills
 ### Languages: Python, SQL:MongoDB,Elephant SQL, AWS Postgres
 ### APIs, FastApi, Flask
 ### Deployment, AWS Heroku
