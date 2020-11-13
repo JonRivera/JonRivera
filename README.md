@@ -8,8 +8,7 @@ I am  presently looking for jobs related to Data Analyst,Software Engineering/Da
 - Languages: Python, SQL:MongoDB,Elephant SQL, AWS Postgres
 - APIs, FastApi, Flask
 - Deployment, AWS Heroku
-
-Container Technology Experience: Docker, Git, GitHub
+- Container Technology Experience: Docker, Git, GitHub
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/jonatan-rivera/
