@@ -1,6 +1,6 @@
 ## Greetings
 
-My name is Jonatan, and I am Data Scientist. I enjoy working on challenging projects that expand my current knowledge base in machine learning, data analysis, and data engineering. 
+My name is Jonatan, and I am Data Engineer with a Data Science background. I enjoy working on challenging projects that expand my current knowledge base in machine learning, data analysis, and data engineering. 
 
 I  am presently working for start company Sol Analytica. During my 10 months with Sol Analaytica I have done the following:
 -Worked on data warehouse engineering tasks such as developing  ETL,ELTs and systems for  Data Integration and Data Analytics using Snowflake, Tableau and AWS Lambda Functions and S3 lambda service. 
