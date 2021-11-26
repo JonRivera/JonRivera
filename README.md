@@ -9,7 +9,7 @@ I have also Build, develop, implement, and maintain data systems for Tableau and
 
 Needless to say, building stuff is fun and exciting but I also develop custom tools and dashboards for our ELTS, real time data processes, ensuring continuous data integrity. I've done this using  python, aws lambda Applications, s3 services, and aws cloud watch, and tableau. 
 
-Througout this 10 month journey, I also picked up new skills and also workon deploying and building webites using nginx. 
+Througout this 10 month journey, I have also picked up new skills and also workon deploying and building webites using nginx. 
 
 Lastly, I've work on custom projects for our cients, even working on development fronend and backend of  an online web analytical tool, using elastic beanstalk, pytho library Dash, and the scikit learn library.
 
