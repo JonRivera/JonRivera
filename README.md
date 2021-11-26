@@ -5,7 +5,7 @@ My name is Jonatan, and I am Data Engineer with a Data Science background. I enj
 I  am presently working for start company Sol Analytica. During my 10 months with Sol Analaytica I have done the following:
 -Worked on data warehouse engineering tasks such as developing  ETL,ELTs and systems for  Data Integration and Data Analytics using Snowflake, Tableau and AWS Lambda Functions and S3 lambda service. 
 
-I have also Build, develop, implement, and maintain data systems for Tableau and analytics, with a focus on understanding our clients business needs, gathering business requirements and and creating  key performance indicators to help our clients improved there business.
+I have also Build, develop, implement, and maintain data systems for Tableau and analytics, with a focus on understanding our clients business needs, gathering business requirements and creating  key performance indicators to help our clients improved there business.
 
 Needless to say, building stuff is fun and exciting but I also develop custom tools and dashboards for our ELTS, real time data processes, ensuring continuous data integrity. I've done this using  python, aws lambda Applications, s3 services, and aws cloud watch, and tableau. 
 
