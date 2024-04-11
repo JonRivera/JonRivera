@@ -1,30 +1,26 @@
-## Greetings
+Greetings!
+I'm Jonatan, a Data Engineer with a background in Data Science. I thrive on tackling challenging projects that broaden my expertise in machine learning, data analysis, and data engineering.
 
-My name is Jonatan, and I am Data Engineer with a Data Science background. I enjoy working on challenging projects that expand my current knowledge base in machine learning, data analysis, and data engineering. 
+Experience at Sol Analytica
+During my tenure at Sol Analytica from March 2021 to October 2023, I delved into various data engineering tasks, specializing in:
 
-I am presently working for start up company Sol Analytica. During my 10 months with Sol Analytica I have done the following: -Worked on data warehouse engineering tasks such as developing ETL, ELTs and systems for Data Integration and Data Analytics using Snowflake, Tableau and AWS Lambda Functions and S3 lambda service.
+Developing ETL and ELT processes and systems for seamless Data Integration and Analytics using Snowflake, Tableau, and AWS Lambda Functions with S3 services.
+Building, implementing, and maintaining data systems tailored for Tableau and analytics, focusing on understanding clients' business needs, gathering requirements, and creating key performance indicators for business improvement.
+Crafting custom tools and dashboards for real-time data processes, ensuring continuous data integrity. Technologies used include Python, AWS Lambda Applications, AWS S3, AWS CloudWatch, and Tableau.
+Picked up new skills in deploying and building websites using Nginx.
+Custom Projects and Tool Development
+I also spearheaded custom projects for our clients, including:
 
-I have also built, developed, implemented, and maintain data systems for Tableau and analytics, with a focus on understanding our client's business needs, gathering business requirements and creating key performance indicators to help our clients improve there business.
-
-Needless to say, building stuff is fun and exciting but I also develop custom tools and dashboards for our ELTS, real-time data processes, ensuring continuous data integrity. I've done this using python, AWS lambda Applications, s3 services, and aws cloud watch, and tableau.
-
-Throughout this 10 month journey, I have also picked up new skills and also work on deploying and building websites using nginx.
-
-Lastly, I've worked on custom projects for our clients, even working on the development frontend and backend of an online web analytical tool, using elastic beanstalk, python library Dash, and the sci-kit learn library.
-
-On top of all that, I manage day-to-day tasks from the development of ETL jobs, infrastructure design and management, internal pipeline development, and operational maintenance and monitoring.
-
-
- 
+Developing both frontend and backend of an online web analytical tool utilizing technologies like Elastic Beanstalk, Dash Python library, and scikit-learn.
+Managing day-to-day tasks encompassing ETL job development, infrastructure design, internal pipeline development, and operational maintenance and monitoring.
 👋
 
-## Skills
-- Languages: Python, SQL:MongoDB,Elephant SQL, AWS Postgres
-- APIs, FastApi, Flask
-- Deployment, AWS Heroku
-- Container Technology Experience: Docker
-- Git, GitHub
-
-## Contact
-- LinkedIn: https://www.linkedin.com/in/jonatan-rivera/
-- Medium: https://jonatanalejandrorivera.medium.com/
+Skills
+Languages: Python, SQL (MongoDB, Elephant SQL, AWS Postgres)
+APIs: FastAPI, Flask
+Deployment: AWS, Heroku
+Container Technology: Docker
+Version Control: Git, GitHub
+Contact
+LinkedIn: Jonatan Rivera
+Medium: Jonatan Rivera
